@@ -1,0 +1,39 @@
+.header {
+    color: #2f573d;
+    font-family: 'Fraunces', serif;
+}
+
+body {
+    background-image: linear-gradient(skyblue, lightgreen);
+}
+
+.pengy {
+    border: 20px groove white;
+    margin: 15px;
+    padding: 10px;
+}
+
+.meow {
+    border: 20px solid black;
+	margin: 15px;
+    padding: 10px;
+}
+
+img {
+	height: 180px;
+}
+
+h3 {
+	color: #0b634d;
+    font-family: 'Fraunces', serif;
+}
+
+.list {
+	color: #4a36bf;
+    font-family: 'Oswald', sans-serif;
+}
+
+.image {
+	display: flex;
+    padding: 10px;
+}
